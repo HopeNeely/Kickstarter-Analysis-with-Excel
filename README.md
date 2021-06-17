@@ -14,27 +14,27 @@ Google Drive
     <details>
     Conditional formatting was used to fill each cell in the "Percent Funded" column using a three-color scale. The scale starts at 0 and be a dark shade of red, transitions to green at 100, and blue at 200.
     </details>
-    <br>
-
-    ![Successful_Campaigns](Images/Successful_Campaigns.png) 
+    
+![Successful_Campaigns](Images/Successful_Campaigns.png) 
     *This image is filtered by success in the "stat" column. 
 
 ## Analysis
-3. Created a pivot table and stacked column pivot chart showing a count of campaigns the were successful, failed, canceled, or live by category. All this can be filtered by country.
+3. Created a pivot table and stacked column pivot chart showing a count of campaigns that were successful, failed, canceled, or live by category. All this can be filtered by country.
     <details>
      This required two new columns, "Category" and "Sub-Category", which use formulas to split the "Category and Sub-Category" column into two.
     </details>
-    <br>
-
-    ![Category_Stats](Images/Category_Stats.png)
+    
+![Category_Stats](Images/Category_Stats.png)
 <br>
 <br>
-4. Created a pivot table and stacked column pivot table showing a count of campaigns were successful, failed, canceled, or live by sub-category. All this filtered by country and parent-category. <br>
-<br>![Subcategory_Stats](Images/Subcategory_Stats.png)
+4. Created a pivot table and stacked column pivot table showing a count of campaigns that were successful, failed, canceled, or live by sub-category. All this filtered by country and parent-category.<br>
+<br>
+![Subcategory_Stats](Images/Subcategory_Stats.png)
 <br>
 <br>
 5. Created pivot table and chart line graph that shows the count of successful, failed, canceled campaigns by month of "Date Created."<br>
-<br>![Outcomes_by_Launch_Dates](Images/Outcomes_by_Launch_dates.png)
+<br>
+![Outcomes_by_Launch_Dates](Images/Outcomes_by_Launch_dates.png)
 <br>
 <br>
 6. Created a line chart that graphs the relationship between a funding goal's amount and its changes at success, failure, or cancellation.<br>
@@ -44,9 +44,7 @@ Google Drive
     - Used the COUNTIFS() formula to count how many successful, failed, and canceled projects were created with funding goals within the new ranges. <br>
     - From that, calculated respective percentages.
     </details>
-    <br>
-
-    ![Outcomes_By_Goal](Images/Outcomes_by_Goal.png)
+![Outcomes_By_Goal](Images/Outcomes_by_Goal.png)
 <br>
 <br>
 
