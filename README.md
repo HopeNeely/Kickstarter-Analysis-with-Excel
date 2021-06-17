@@ -34,7 +34,7 @@ Google Drive
 <br>
 5. Created pivot table and chart line graph that shows the count of successful, failed, canceled campaigns by month of "Date Created."<br>
 <br>
-![Outcomes_by_Launch_Dates](Images/Outcomes_by_Launch_dates.png)
+![Outcomes_by_Launch_Dates](Images/Outcomes_by_Launch_Dates.png)
 <br>
 <br>
 6. Created a line chart that graphs the relationship between a funding goal's amount and its changes at success, failure, or cancellation.<br>
@@ -44,9 +44,7 @@ Google Drive
     - Used the COUNTIFS() formula to count how many successful, failed, and canceled projects were created with funding goals within the new ranges. <br>
     - From that, calculated respective percentages.
     </details>
-![Outcomes_By_Goal](Images/Outcomes_by_Goal.png)
-<br>
-<br>
+![Outcomes_By_Goal](Images/Outcomes_By_Goal.png)
 
 ## Key Insights
 ### Conclusions drawn about Kickstarter Campaigns: 
@@ -60,8 +58,7 @@ Google Drive
 * I would like to see success rates of campaigns given category, dates, and location. A graph would help visualize that data. 
 * I am interested if staff picks and spotlight campaigns have better success rates or funding rates. A graph would help visualize that data as well. 
 * If I were planning my own Kickstarter campaign, I would want to see what kind of goals and average donations other campaigns in my category had. 
-<br>
-<br>
+
 # Contact Info:
 ### Hope Neely<br>
 Email: [hope.neely@gmail.com](hope.neely@gmail.com)<br>
